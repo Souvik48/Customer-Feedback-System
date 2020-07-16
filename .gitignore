@@ -1,0 +1,11 @@
+/node_modules
+/client/node_modules
+/config/key
+/config/passport
+/routes/api
+.dist
+/routes/.dist
+/routes/api
+/config/api
+/api
+package-lock.json
